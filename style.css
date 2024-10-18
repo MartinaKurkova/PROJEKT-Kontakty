@@ -37,7 +37,7 @@ img {
 	object-fit: cover;
 }
 
-@media screen and (min-width: 560px) {
+@media screen and (min-width: 540px) {
 	.kontejner {
 		display: flex;
 		flex-direction: row;
